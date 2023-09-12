@@ -1,0 +1,10 @@
+¿Puedes determinar cuándo un número dado es divisible por cuatro?
+Hacer un programa que lea un número, que representa el numero de
+veces que se introducirán números a validar si son divisibles entre 4.
+Especificación de entrada
+El primer número debe ser positivo de lo contrario se introducirá otra
+vez, después se introducen el número de veces las cantidades o números
+a validar si son múltiplos, los cuales serán mayores a 4.
+Especificación de salida
+Para cada caso de prueba, si N es divisible por 4 imprima una línea con
+la palabra "YES"; sino imprima la palabra "NO"

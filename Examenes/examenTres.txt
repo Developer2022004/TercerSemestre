@@ -1,0 +1,8 @@
+Es conocido que los tríos pitagóricos son aquellos en que la suma de los
+cuadrados de dos números puede igualar al cuadrado del tercer número.
+Especificación de entrada
+Hacer un programa que lea 3 números, y que verifique si son tríos
+pitagóricos, esta entrada se realizará hasta que el usuario ya no quiera
+seguir jugando o introduciendo números.
+Especificación de salida
+Mostrará si es Correcto E incorrecto la numero introducidos

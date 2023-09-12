@@ -1,0 +1,19 @@
+A un numero S se le llama media de dos numeros R1 Y R2 si se cumple que S es igual a ((R2-R1)+3)*2. 
+El regalo de cumpleanos de Mirko para SLavko fue de dos cantidades R1 Y R2. Slavko calculo rapidamente su media.
+Pero luego perdio a R2 Ayuda a SLavko a recuperar a R2
+
+por lo tanto,se introducen 2 numeros que contiene dos cantidades R1 y S 
+
+Especificacion de salida
+Devuelva el valor de R2
+
+Entradas especificas
+
+2 20
+
+3 10
+
+salidas especificas
+9
+
+5
