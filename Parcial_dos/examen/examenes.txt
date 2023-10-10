@@ -1,0 +1,12 @@
+1.- Hacer un programa que lea un dato, si el dato es valido se agregara a una lista, pero solamente su valor ascii. 
+Un valor correcto es un numero del 0 al 9 o una letra entre la a y la g, de lo contrario se volvera a pedir el dato.
+>NOTA: EL PROGRAMA NO TERMINA HASTA QUE SE ESCRIBA EL VALOR -1
+
+2.- Hacer un programa que lea una cadena, que la agregue a una lista y ademas agregue la lista si la cadena es un palindromo ANA = ANA es decir palabra que se lee al reves completamente igual.
+
+3.- Hacer un programa que lea nombre completo con apellidos, dia, mes y año de nacimiento, el programa agregara una lista el RFC de la persona
+Estructura La clave de Registro Federal de Contribuyentes asignada a las personas morales se compone de doce dígitos. Tres primeras letras de las tres primeras palabras de la denominación. Año Mes Día Tres caracteres diferenciadores únicos.
+EJEMPLO:
+Jesus Salcedo Avila  23 02 2003
+
+SAAJ030223
